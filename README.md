@@ -32,6 +32,8 @@
 
 ## fetch and AJAX
 
+## Tools
+
 ## Git
 
 **Resetting code to last commit** - this will abandon any changes and load code as it was at last commit
