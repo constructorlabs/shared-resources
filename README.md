@@ -40,9 +40,9 @@
 
 ## Array methods
 
-> Does it mutate??
-
 - [https://doesitmutate.xyz/](https://doesitmutate.xyz/)
+
+> Does it mutate??
 
 ## Scope
 
@@ -64,8 +64,6 @@
 
 > Awesome, can't live with out it.
 
-## Git
-
 ## VS Code
 
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
@@ -74,6 +72,8 @@
 - [Prittier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Debugger for Chrome ](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
+## Git
 
 **Resetting code to last commit** - this will abandon any changes and load code as it was at last commit
 
