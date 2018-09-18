@@ -76,6 +76,10 @@
 
 > Evaluates your page to see how accessible it is to things like screen readers.
 
+[WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+
+> Find out what font styles are being used on a page and shamelessly steal them for yourself.
+
 ## VS Code
 
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
