@@ -30,6 +30,10 @@
 - [Coolers](https://coolors.co/)
   > Nice colour scheme tool for the aesthetically challenged.
 
+- [https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
+> Explanation of different css selectors
+
 ### Flex
 
 - [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
