@@ -21,10 +21,14 @@
 ## HTML
 
 - [https://internetingishard.com/](https://internetingishard.com/)
+- [SATAN EXPLAINS HTML using DEATH METAL](https://www.youtube.com/watch?v=27dnddCq5gc)
 
 ## CSS
 
 - [http://jxnblk.com/hello-color](http://jxnblk.com/hello-color)
+- [CSS Diner](https://flukeout.github.io/)
+- [Coolers](https://coolors.co/)
+  > Nice colour scheme tool for the aesthetically challenged.
 
 ### Flex
 
@@ -46,6 +50,10 @@
 
 ## Scope
 
+- [You Don't Know JavaScript Exercises](https://ydkjs-exercises.com/scope-closures/ch1/q1)
+
+> Some people on Reddit got together and made a quiz based on the contents of `You Don't Know JavaScript`.
+
 ## Objects
 
 ## DOM and Events
@@ -63,6 +71,14 @@
 [https://prettier.io/](https://prettier.io/)
 
 > Awesome, can't live with out it.
+
+[WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+
+> Evaluates your page to see how accessible it is to things like screen readers.
+
+[WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+
+> Find out what font styles are being used on a page and shamelessly steal them for yourself.
 
 ## VS Code
 
