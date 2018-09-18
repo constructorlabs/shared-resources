@@ -20,7 +20,7 @@
 
 ## JS
 
-- https://eloquentjavascript.net/
+- [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
 
 ## HTML
 
@@ -30,7 +30,7 @@
 
 Concise list of array methods with links to usage
 
-- https://www.w3schools.com/jsref/jsref_obj_array.asp
+- [https://www.w3schools.com/jsref/jsref_obj_array.asp](https://www.w3schools.com/jsref/jsref_obj_array.asp)
 
 ## Scope
 
@@ -42,7 +42,7 @@ Concise list of array methods with links to usage
 
 ## Tools
 
-- https://docs.emmet.io/cheat-sheet/
+- [https://docs.emmet.io/cheat-sheet/](https://docs.emmet.io/cheat-sheet/)
 
 ## Git
 
