@@ -18,11 +18,19 @@
 - To pull latest changes to master from upstream run `git pull upstream master`
 - At this stage you can checkout a feature branch as above and continue as before.
 
+## JS
+
+- https://eloquentjavascript.net/
+
 ## HTML
 
 ## CSS
 
 ## Array methods
+
+Concise list of array methods with links to usage
+
+- https://www.w3schools.com/jsref/jsref_obj_array.asp
 
 ## Scope
 
@@ -33,6 +41,8 @@
 ## fetch and AJAX
 
 ## Tools
+
+- https://docs.emmet.io/cheat-sheet/
 
 ## Git
 
