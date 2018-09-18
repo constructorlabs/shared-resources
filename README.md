@@ -20,9 +20,29 @@
 
 ## HTML
 
+- [https://internetingishard.com/](https://internetingishard.com/)
+
 ## CSS
 
+- [http://jxnblk.com/hello-color](http://jxnblk.com/hello-color)
+
+### Flex
+
+- [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [http://flexbox.malven.co/](http://flexbox.malven.co/)
+- [http://flexboxfroggy.com/](http://flexboxfroggy.com/)
+
+### Grid
+
+- [http://grid.malven.co/](http://grid.malven.co/)
+- [https://cssgridgarden.com/](https://cssgridgarden.com/)
+- [Layout land, real world examples](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1)
+
 ## Array methods
+
+> Does it mutate??
+
+- [https://doesitmutate.xyz/](https://doesitmutate.xyz/)
 
 ## Scope
 
@@ -32,9 +52,28 @@
 
 ## fetch and AJAX
 
+- [https://github.com/toddmotto/public-apis](https://github.com/toddmotto/public-apis)
+
 ## Tools
 
+[http://tachyons.io/xray/](http://tachyons.io/xray/)
+
+> rips out colors and applies a grid and borders.
+
+[https://prettier.io/](https://prettier.io/)
+
+> Awesome, can't live with out it.
+
 ## Git
+
+## VS Code
+
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Open in Browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
+- [Prittier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Debugger for Chrome ](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 **Resetting code to last commit** - this will abandon any changes and load code as it was at last commit
 
