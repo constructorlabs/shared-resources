@@ -29,6 +29,7 @@
 - [CSS Diner](https://flukeout.github.io/)
 - [Coolers](https://coolors.co/)
   > Nice colour scheme tool for the aesthetically challenged.
+- [Type-Scale](https://type-scale.com/)
 
 ### Flex
 
