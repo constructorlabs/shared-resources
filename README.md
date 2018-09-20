@@ -31,6 +31,7 @@
   > Nice colour scheme tool for the aesthetically challenged.
 - [Type-Scale](https://type-scale.com/)
 - [Dribbble](https://dribbble.com/)
+- [Figma](https://www.google.co.uk/search?q=figma&oq=figma&aqs=chrome..69i57j69i60l3j69i61l2.623j0j7&sourceid=chrome&ie=UTF-8)
 
 ### Flex
 
