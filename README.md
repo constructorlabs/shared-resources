@@ -18,6 +18,10 @@
 - To pull latest changes to master from upstream run `git pull upstream master`
 - At this stage you can checkout a feature branch as above and continue as before.
 
+## JS
+
+- [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
+
 ## HTML
 
 - [https://internetingishard.com/](https://internetingishard.com/)
@@ -47,6 +51,9 @@
 
 ## Array methods
 
+Concise list of array methods with links to usage
+
+- [https://www.w3schools.com/jsref/jsref_obj_array.asp](https://www.w3schools.com/jsref/jsref_obj_array.asp)
 - [https://doesitmutate.xyz/](https://doesitmutate.xyz/)
 
 > Does it mutate??
@@ -67,7 +74,8 @@
 
 ## Tools
 
-[http://tachyons.io/xray/](http://tachyons.io/xray/)
+- [https://docs.emmet.io/cheat-sheet/](https://docs.emmet.io/cheat-sheet/)
+  [http://tachyons.io/xray/](http://tachyons.io/xray/)
 
 > rips out colors and applies a grid and borders.
 
