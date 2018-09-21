@@ -37,6 +37,10 @@
 - [Dribbble](https://dribbble.com/)
 - [Figma](https://www.google.co.uk/search?q=figma&oq=figma&aqs=chrome..69i57j69i60l3j69i61l2.623j0j7&sourceid=chrome&ie=UTF-8)
 
+- [https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
+> Explanation of different css selectors
+
 ### Flex
 
 - [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -99,6 +103,16 @@ Concise list of array methods with links to usage
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Debugger for Chrome ](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
+## Design
+
+- [Noun project](https://thenounproject.com/)
+
+> Icons for everything
+
+## UX
+
+- [Form design tips](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 
 ## Git
 
