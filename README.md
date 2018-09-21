@@ -18,6 +18,10 @@
 - To pull latest changes to master from upstream run `git pull upstream master`
 - At this stage you can checkout a feature branch as above and continue as before.
 
+## JS
+
+- [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
+
 ## HTML
 
 - [https://internetingishard.com/](https://internetingishard.com/)
@@ -29,6 +33,9 @@
 - [CSS Diner](https://flukeout.github.io/)
 - [Coolers](https://coolors.co/)
   > Nice colour scheme tool for the aesthetically challenged.
+- [Type-Scale](https://type-scale.com/)
+- [Dribbble](https://dribbble.com/)
+- [Figma](https://www.google.co.uk/search?q=figma&oq=figma&aqs=chrome..69i57j69i60l3j69i61l2.623j0j7&sourceid=chrome&ie=UTF-8)
 
 - [https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
@@ -48,6 +55,9 @@
 
 ## Array methods
 
+Concise list of array methods with links to usage
+
+- [https://www.w3schools.com/jsref/jsref_obj_array.asp](https://www.w3schools.com/jsref/jsref_obj_array.asp)
 - [https://doesitmutate.xyz/](https://doesitmutate.xyz/)
 
 > Does it mutate??
@@ -68,7 +78,8 @@
 
 ## Tools
 
-[http://tachyons.io/xray/](http://tachyons.io/xray/)
+- [https://docs.emmet.io/cheat-sheet/](https://docs.emmet.io/cheat-sheet/)
+  [http://tachyons.io/xray/](http://tachyons.io/xray/)
 
 > rips out colors and applies a grid and borders.
 
