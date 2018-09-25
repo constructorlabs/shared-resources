@@ -82,6 +82,8 @@ Concise list of array methods with links to usage
 
 - [React Cheat Sheet](http://www.developer-cheatsheets.com/react)
 
+- [https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS](https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS) Beginners guide to React - 2nd video helps explain what the webpack.config file is doing, afterwards going on to clearly explain building individual components.
+
 ## Tools
 
 - [https://docs.emmet.io/cheat-sheet/](https://docs.emmet.io/cheat-sheet/)
