@@ -78,6 +78,10 @@ Concise list of array methods with links to usage
 
 - [https://github.com/toddmotto/public-apis](https://github.com/toddmotto/public-apis)
 
+## React
+
+- [React Cheat Sheet](http://www.developer-cheatsheets.com/react)
+
 ## Tools
 
 - [https://docs.emmet.io/cheat-sheet/](https://docs.emmet.io/cheat-sheet/)
