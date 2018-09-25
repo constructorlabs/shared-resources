@@ -26,6 +26,8 @@
 
 - [https://internetingishard.com/](https://internetingishard.com/)
 - [SATAN EXPLAINS HTML using DEATH METAL](https://www.youtube.com/watch?v=27dnddCq5gc)
+- [Wes Bos: Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html/)
+  > 👏 THIS. 👏 IS. 👏 AMAZING. 👏 How to create HTML elements from arrays using template strings. 🔥💯💪
 
 ## CSS
 
@@ -75,6 +77,10 @@ Concise list of array methods with links to usage
 ## fetch and AJAX
 
 - [https://github.com/toddmotto/public-apis](https://github.com/toddmotto/public-apis)
+
+## React
+
+- [React Cheat Sheet](http://www.developer-cheatsheets.com/react)
 
 ## Tools
 
