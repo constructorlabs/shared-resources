@@ -89,17 +89,21 @@ Concise list of array methods with links to usage
 
 > rips out colors and applies a grid and borders.
 
-[https://prettier.io/](https://prettier.io/)
+- [https://prettier.io/](https://prettier.io/)
 
 > Awesome, can't live with out it.
 
-[WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+- [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 
 > Evaluates your page to see how accessible it is to things like screen readers.
 
-[WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+- [WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
 > Find out what font styles are being used on a page and shamelessly steal them for yourself.
+
+- [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en)
+
+> Pipette tool to find the rgb code of any colour on the page.
 
 ## VS Code
 
