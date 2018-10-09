@@ -29,6 +29,10 @@
 - [Wes Bos: Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html/)
   > 👏 THIS. 👏 IS. 👏 AMAZING. 👏 How to create HTML elements from arrays using template strings. 🔥💯💪
 
+### Handlebars
+
+- [Handlebars Docs](https://handlebarsjs.com/)
+
 ## CSS
 
 - [http://jxnblk.com/hello-color](http://jxnblk.com/hello-color)
@@ -86,24 +90,31 @@ Concise list of array methods with links to usage
 
 - [https://docs.emmet.io/cheat-sheet/](https://docs.emmet.io/cheat-sheet/)
   [http://tachyons.io/xray/](http://tachyons.io/xray/)
-> rips out colors and applies a grid and borders.
+
+  > rips out colors and applies a grid and borders.
 
 - [https://prettier.io/](https://prettier.io/)
-> Awesome, can't live with out it.
+
+  > Awesome, can't live with out it.
 
 - [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/)
-> Evaluates your page to see how accessible it is to things like screen readers.
+
+  > Evaluates your page to see how accessible it is to things like screen readers.
 
 - [WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
-> Find out what font styles are being used on a page and shamelessly steal them for yourself.
+
+  > Find out what font styles are being used on a page and shamelessly steal them for yourself.
 
 - [sizzy.co](https://sizzy.co)
-> For testing responsiveness
+
+  > For testing responsiveness
 
 - [frontendchecklist.io](https://frontendchecklist.io/)
-> The Front-End Checklist Application
 
+  > The Front-End Checklist Application
 
+- [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en)
+  > Pipette tool to find the rgb code of any colour on the page.
 
 ## VS Code
 
@@ -114,22 +125,26 @@ Concise list of array methods with links to usage
 - [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Debugger for Chrome ](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-## Design 
+## Design
 
 - [Noun project](https://thenounproject.com/)
-> Icons for everything
+
+  > Icons for everything
 
 - [Figma](https://www.figma.com)
 
 **Free photo galleries**
+
 - [Unsplash](https://unsplash.com)
 - [Pixabay](https://pixabay.com)
 
 **Photo editing software**
+
 - [Affinity Photo](https://affinity.serif.com/en-gb/photo/desktop/)
-> A much cheaper alternative to Adobe Photoshop, recommened by Jonny
+  > A much cheaper alternative to Adobe Photoshop, recommened by Jonny
 
 **Logo generator**
+
 - [Logo Joy](https://logojoy.com/explore)
 
 ## UX
@@ -139,7 +154,6 @@ Concise list of array methods with links to usage
 ## Regex
 
 - [Regex Cheatsheet](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
-
 
 ## Git
 
@@ -156,4 +170,3 @@ For example running `git clone git@github.com:constructorlabs/shared-resources.g
 - [Markdown formatting](https://guides.github.com/features/mastering-markdown/)
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
