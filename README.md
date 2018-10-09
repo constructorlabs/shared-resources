@@ -29,6 +29,10 @@
 - [Wes Bos: Easy Creation of HTML with JavaScript’s Template Strings](https://wesbos.com/template-strings-html/)
   > 👏 THIS. 👏 IS. 👏 AMAZING. 👏 How to create HTML elements from arrays using template strings. 🔥💯💪
 
+### Handlebars
+
+- [Handlebars Docs](https://handlebarsjs.com/)
+
 ## CSS
 
 - [http://jxnblk.com/hello-color](http://jxnblk.com/hello-color)
